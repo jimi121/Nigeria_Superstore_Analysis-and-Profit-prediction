@@ -1,3 +1,4 @@
+![images (1)](https://user-images.githubusercontent.com/92132906/159566055-af3ad9cc-fbb0-48bf-92c7-565cac7f0ee1.jpeg)
 # Nigeria_Superstore_Analysis-and-Profit-prediction
 This project is about A Nigeria superstore profit analysis and I also use different models to predict if there will be profit or loss. 
 # Data
